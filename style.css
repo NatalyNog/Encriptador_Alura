@@ -6,7 +6,7 @@
 }
 
 .fondo{
-    background-image: url(./imagenes/cookie2.jpg);
+    background-image: url("./imagenes/cookie2.jpg");
 }
 
 .logo{
@@ -39,7 +39,7 @@ outline: none;
 .mensaje{
     box-shadow: 5px 5px 2px 2px rgb(245, 129, 83);
     background: white;
-    background-image: url(./imagenes/muñecolupa2.jpg);
+    background-image: url("/imagenes/muñecolupa2.jpg");
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
